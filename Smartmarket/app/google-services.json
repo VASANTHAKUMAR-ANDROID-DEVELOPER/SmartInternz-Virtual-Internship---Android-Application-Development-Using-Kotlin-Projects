@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "472709671110",
+    "firebase_url": "https://smart-market-7f089-default-rtdb.firebaseio.com",
+    "project_id": "smart-market-7f089",
+    "storage_bucket": "smart-market-7f089.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472709671110:android:c72f714c285810e393cfc7",
+        "android_client_info": {
+          "package_name": "com.example.smartmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472709671110-14vlssj20l6v1ffc2tb8n85d2nmuekvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkjuuSXrWPA3QWxk7jRqtmyghmJSAXcsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472709671110-14vlssj20l6v1ffc2tb8n85d2nmuekvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

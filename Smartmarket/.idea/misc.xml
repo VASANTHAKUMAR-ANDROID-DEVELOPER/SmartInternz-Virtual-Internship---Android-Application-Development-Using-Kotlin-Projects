@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Smartmarket/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1945" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Smartmarket/app/src/main/res/drawable/ic_baseline_vpn_key_24.xml" value="0.1" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Smartmarket/app/src/main/res/drawable/round_button.xml" value="0.1815" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Smartmarket/app/src/main/res/drawable/voval_button.xml" value="0.1815" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Smartmarket/app/src/main/res/layout-land/activity_main.xml" value="0.16049382716049382" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Smartmarket/app/src/main/res/layout/activity_business.xml" value="0.18" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Smartmarket/app/src/main/res/layout/activity_buy.xml" value="0.16" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Smartmarket/app/src/main/res/layout/activity_company.xml" value="0.1" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Smartmarket/app/src/main/res/layout/activity_favourite.xml" value="0.1685185185185185" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Smartmarket/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Smartmarket/app/src/main/res/layout/activity_login.xml" value="0.18" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Smartmarket/app/src/main/res/layout/activity_login1.xml" value="0.18958333333333333" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Smartmarket/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Smartmarket/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Smartmarket/app/src/main/res/layout/activity_main3.xml" value="0.22" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Smartmarket/app/src/main/res/layout/activity_products.xml" value="0.22141119221411193" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Smartmarket/app/src/main/res/layout/activity_profile.xml" value="0.18" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Smartmarket/app/src/main/res/layout/activity_register.xml" value="0.18" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Smartmarket/app/src/main/res/layout/activity_save.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Smartmarket/app/src/main/res/layout/activity_save2.xml" value="0.1716485507246377" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Smartmarket/app/src/main/res/layout/activity_search.xml" value="0.14673913043478262" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Smartmarket/app/src/main/res/layout/activity_sell.xml" value="0.15217391304347827" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Smartmarket/app/src/main/res/layout/activity_signin.xml" value="0.1911231884057971" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Smartmarket/app/src/main/res/layout/activity_singin.xml" value="0.1911231884057971" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Smartmarket/app/src/main/res/layout/content_scrolling.xml" value="0.1796875" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Smartmarket/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1865" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Smartmarket/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.12" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Vertical">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="410dp"
+        android:layout_height="69dp"
+        android:background="#FF6200EE"
+        android:text="Dogglers"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="77dp"
+        android:layout_height="57dp"
+        android:background="#FF6200EE"
+        android:text="bACK"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.014"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.007" />
+
+    <ScrollView
+        android:layout_width="410dp"
+        android:layout_height="724dp"
+        android:contentDescription="@string/app_name"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginBottom="15dp"
+        app:layout_constraintTop_toTopOf="@+id/button"
+        app:layout_constraintVertical_bias="0.0">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="318dp"
+
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="75dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/bella">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="395dp"
+                android:layout_height="36dp"
+                android:layout_marginLeft="10dp"
+                android:width="40dp"
+                android:height="10dp"
+
+                android:text="  Bella"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="395dp"
+                android:layout_height="36dp"
+                android:layout_marginLeft="10dp"
+                android:width="40dp"
+                android:height="10dp"
+
+                android:text="  Age:4                        Hobbies:sunbathing"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="318dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/faye">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="395dp"
+                android:layout_height="36dp"
+                android:layout_marginLeft="10dp"
+                android:width="40dp"
+                android:height="10dp"
+
+                android:text="  Faye"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="395dp"
+                android:layout_height="36dp"
+                android:layout_marginLeft="10dp"
+                android:width="40dp"
+                android:height="10dp"
+
+                android:text="  Age:5                        Hobbies:sleeping in Dangerous place"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="318dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/frankie">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="395dp"
+                android:layout_height="36dp"
+                android:layout_marginLeft="10dp"
+                android:width="40dp"
+                android:height="10dp"
+
+                android:text="  Frankie"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="395dp"
+                android:layout_height="36dp"
+                android:layout_marginLeft="10dp"
+                android:width="40dp"
+                android:height="10dp"
+
+                android:text="  Age:2                        Hobbies:Eating"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="318dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/nox">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="395dp"
+                android:layout_height="36dp"
+                android:layout_marginLeft="10dp"
+                android:width="40dp"
+                android:height="10dp"
+
+                android:text="  Nox"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="395dp"
+                android:layout_height="36dp"
+                android:layout_marginLeft="10dp"
+                android:width="40dp"
+                android:height="10dp"
+
+                android:text="  Age:3                        Hobbies:playing"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="318dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/tzeitel">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="395dp"
+                android:layout_height="36dp"
+                android:layout_marginLeft="10dp"
+                android:width="40dp"
+                android:height="10dp"
+
+                android:text="  Tzeitel"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="395dp"
+                android:layout_height="36dp"
+                android:layout_marginLeft="10dp"
+                android:width="40dp"
+                android:height="10dp"
+
+                android:text="  Age:4                        Hobbies:Stealing socks"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
